@@ -7,6 +7,7 @@ import os
 #     os.remove("users.db")
 
 # Connect to SQLite database (creates it if it doesn't exist)
+# When adding a field to this SQlite3 database delete the old database and/or copy to folder old database before running "Setup a vehicle db.py" will recreate the database file using the JSON file.
 conn = sqlite3.connect("vehicle_Goldies.db")
 cursor = conn.cursor()
 
@@ -58,3 +59,4 @@ for row in rows:
     print(Count)
  
 conn.close()
+
