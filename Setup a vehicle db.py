@@ -19,7 +19,8 @@ CREATE TABLE IF NOT EXISTS tbl_vehicles (
     Model TEXT NOT NULL,
     Partial_Vin TEXT NOT NULL,
     Year TEXT NOT NULL,
-    Mileage TEXT NOT NULL
+    Mileage TEXT NOT NULL,
+    Color TEXT NOT NULL
 )
 """)
 
@@ -33,8 +34,8 @@ try:
     # We now look for 'vehicles' in the JSON and insert into the 'Key_id' column
     for tbl_vehicles in vehicles_Goldies:
         cursor.execute(
-            "INSERT OR REPLACE INTO tbl_vehicles (Key_id, Model, Partial_Vin, Year, Mileage) VALUES (?, ?, ?, ?, ?)",
-            (tbl_vehicles["Key_id"], tbl_vehicles["Model"], tbl_vehicles["Partial_Vin"], tbl_vehicles["Year"], tbl_vehicles["Mileage"])
+            "INSERT OR REPLACE INTO tbl_vehicles (Key_id, Model, Partial_Vin, Year, Mileage, Color) VALUES (?, ?, ?, ?, ?, ?)",
+            (tbl_vehicles["Key_id"], tbl_vehicles["Model"], tbl_vehicles["Partial_Vin"], tbl_vehicles["Year"], tbl_vehicles["Mileage"], tbl_vehicles["Color"])
                        )
     # Commit and close
     conn.commit()
@@ -59,4 +60,6 @@ for row in rows:
     print(Count)
  
 conn.close()
+
+
 
