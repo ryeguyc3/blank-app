@@ -1,0 +1,303 @@
+[
+  {
+    "Key_id": 54,
+    "Model": "Audi Q3 2.0T quattro Premium SUV",
+    "Partial_Vin": "014711",
+	"Year": "2017",
+	"Mileage": "82,253"
+  },
+    {
+    "Key_id": 133,
+    "Model": "Ford F-250",
+    "Partial_Vin": "B35010",
+	"Year": "2016",
+	"Mileage": "89,176"
+  },
+ {
+    "Key_id": 13,
+    "Model": "Acura MDX SUV",
+    "Partial_Vin": "005741",
+	"Year": "2016",
+	"Mileage": "108,253"
+  },
+   {
+    "Key_id": 11,
+    "Model": "Alfa Romeo Giulia",
+    "Partial_Vin": "601405",
+	"Year": "2019",
+	"Mileage": "69,445"
+  },
+  {
+    "Key_id": 78,
+    "Model": "Infiniti Qx80 SUV",
+    "Partial_Vin": "611287",
+	"Year": "2016",
+	"Mileage": "78,369"
+  },
+   {
+    "Key_id": 90,
+    "Model": "Ford Explorer XLT SUV",
+    "Partial_Vin": "A05892",
+	"Year": "2021",
+	"Mileage": "84,000"
+  },
+  {
+    "Key_id": 7,
+    "Model": "Maserati Quattroporte S Sedan",
+    "Partial_Vin": "187663",
+	"Year": "2016",
+	"Mileage": "45,887"
+  },
+    {
+    "Key_id": 19,
+    "Model": "Ford F-250 Super Duty XL Truck",
+    "Partial_Vin": "A77095",
+	"Year": "2015",
+	"Mileage": "92,958"
+  },
+  {
+    "Key_id": 104,
+    "Model": "Lincoln Navigator L Select SUV",
+    "Partial_Vin": "L01822",
+	"Year": "2018",
+	"Mileage": "85,500"
+  },
+  {
+    "Key_id": 26,
+    "Model": "Porsche 911 Carrera 4 Cabriolet",
+    "Partial_Vin": "652663",
+	"Year": "2004",
+	"Mileage": "69,292"
+  },
+   {
+    "Key_id": 72,
+    "Model": "Audi S5 3.0 Turbo",
+    "Partial_Vin": "008950",
+	"Year": "2012",
+	"Mileage": "54,995"
+  },
+   {
+    "Key_id": 41,
+    "Model": "Chevy 3500 Dually",
+    "Partial_Vin": "037061",
+	"Year": "1997",
+	"Mileage": "55,657"
+  }, 
+  {
+    "Key_id": 25,
+    "Model": "Chevy Silverado 4x4 Crew Cab Trail Boss",
+    "Partial_Vin": "239349",
+	"Year": "2020",
+	"Mileage": "108,098"
+  },
+  {
+    "Key_id": 18,
+    "Model": "BMW 5 Series 550i",
+    "Partial_Vin": "962686",
+	"Year": "2016",
+	"Mileage": "59,365"
+  },
+  {
+    "Key_id": 37,
+    "Model": "MINI Countryman Cooper",
+    "Partial_Vin": "N53306",
+	"Year": "2022",
+	"Mileage": "85,300"
+  }, 
+    {
+    "Key_id": 27,
+    "Model": "Ford EcoSport Titanium",
+    "Partial_Vin": "435334",
+	"Year": "2021",
+	"Mileage": "65,300"
+  },
+    {
+    "Key_id": 34,
+    "Model": "Audi A4 allroad 2.0T quattro Premium Plus",
+    "Partial_Vin": "065238",
+	"Year": "2018",
+	"Mileage": "62,310"
+  },
+   {
+    "Key_id": 14,
+    "Model": "Jaguar F-PACE 25t Premium SUV",
+    "Partial_Vin": "610414",
+	"Year": "2019",
+	"Mileage": "61,600"
+  },
+   {
+    "Key_id": 31,
+    "Model": "RAM 1500 Limited Truck",
+    "Partial_Vin": "565130",
+	"Year": "2021",
+	"Mileage": "80,891"
+  },
+   {
+    "Key_id": 75,
+    "Model": "Honda CR-V SE SUV",
+    "Partial_Vin": "506573",
+	"Year": "2016",
+	"Mileage": "86,300"
+  }, 
+  {
+    "Key_id": 93,
+    "Model": "Mercedes-Benz E 350 Coupe",
+    "Partial_Vin": "166397",
+	"Year": "2012",
+	"Mileage": "79,300"
+  },
+  {
+    "Key_id": 96,
+    "Model": "Nissan Pathfinder SV SUV",
+    "Partial_Vin": "600081",
+	"Year": "2019",
+	"Mileage": "58,200"
+  },
+  {
+    "Key_id": 21,
+    "Model": "Audi Q7 3.0 quattro TDI Premium SUV",
+    "Partial_Vin": "018357",
+	"Year": "2015",
+	"Mileage": "75,000"
+  },
+  {
+    "Key_id": 79,
+    "Model": "Nissan Sentra SV Sedan",
+    "Partial_Vin": "620443",
+	"Year": "2018",
+	"Mileage": "73,400"
+  },
+  {
+    "Key_id": 62,
+    "Model": "Buick Encore SUV",
+    "Partial_Vin": "577836",
+	"Year": "2016",
+	"Mileage": "72,500"
+  },
+  {
+    "Key_id": 94,
+    "Model": "Subaru Impreza Premium Sedan",
+    "Partial_Vin": "603800",
+	"Year": "2021",
+	"Mileage": "50,000"
+  },
+  {
+    "Key_id": 63,
+    "Model": "Mitsubishi Lancer Evolution Final Edition Sedan",
+    "Partial_Vin": "028139",
+	"Year": "2015",
+	"Mileage": "53,500"
+  },
+  {
+    "Key_id": 57,
+    "Model": "Ford Expedition MAX XLT SUV",
+    "Partial_Vin": "A30163",
+	"Year": "2018",
+	"Mileage": "84,500"
+  },
+  {
+    "Key_id": 2,
+    "Model": "Audi A3 1.8T Premium Sedan",
+    "Partial_Vin": "070124",
+	"Year": "2016",
+	"Mileage": "71,641"
+  },
+   {
+    "Key_id": 42,
+    "Model": "Volvo XC60 T6 Platinum SUV",
+    "Partial_Vin": "545440",
+	"Year": "2014",
+	"Mileage": "83,000"
+  },
+  {
+    "Key_id": 69,
+    "Model": "Mercedes-Benz E 350 Sport",
+    "Partial_Vin": "048747",
+	"Year": "2014",
+	"Mileage": "120,280"
+  },
+  {
+    "Key_id": 117,
+    "Model": "BMW 3 Series 320i Sedan",
+    "Partial_Vin": "U11640",
+	"Year": "2016",
+	"Mileage": "55,000"
+  },
+   {
+    "Key_id": 39,
+    "Model": "Infiniti Q50 3.0 Turbo Sport",
+    "Partial_Vin": "360276",
+	"Year": "2018",
+	"Mileage": "29,400"
+  },
+   {
+    "Key_id": 1,
+    "Model": "Jeep Grand Cherokee Trailhawk 4X4",
+    "Partial_Vin": "298914",
+	"Year": "2018",
+	"Mileage": "56000"
+  },
+   {
+    "Key_id": 68,
+    "Model": "Lexus LS 460 Sedan",
+    "Partial_Vin": "005849",
+	"Year": "2010",
+	"Mileage": "103,100"
+  },
+    {
+    "Key_id": 45,
+    "Model": "Lincoln Navigator Select SUV",
+    "Partial_Vin": "L14026",
+	"Year": "2017",
+	"Mileage": "104,100"
+   },
+   {
+    "Key_id": 44,
+    "Model": "Dodge Challenger R/T Scat Pack Coupe",
+    "Partial_Vin": "108903",
+	"Year": "2022",
+	"Mileage": "10,149"
+   },
+    {
+    "Key_id": 49,
+    "Model": "Ford F-350 Super Duty XL Truck",
+    "Partial_Vin": "C64530",
+	"Year": "2020",
+	"Mileage": "105,509"
+   },
+   {
+    "Key_id": 6,
+    "Model": "Mitsubishi Outlander PHEV GT SUV",
+    "Partial_Vin": "001090",
+	"Year": "2021",
+	"Mileage": "46,100"
+   },
+   {
+    "Key_id": 110,
+    "Model": "Audi Q5 2.0T quattro Premium Plus SUV",
+    "Partial_Vin": "119376",
+	"Year": "2014",
+	"Mileage": "70,500"
+   },
+   {
+    "Key_id": 53,
+    "Model": "Chevrolet Blazer LT SUV",
+    "Partial_Vin": "519320",
+	"Year": "2021",
+	"Mileage": "88,800"
+   },
+   {
+    "Key_id": 84,
+    "Model": "Mazda MX-5 Miata RF Grand Touring Convertible",
+    "Partial_Vin": "455587",
+	"Year": "2021",
+	"Mileage": "35,400"
+   },
+   {
+    "Key_id": 43,
+    "Model": "Hyundai Sonata",
+    "Partial_Vin": "616716",
+	"Year": "2013",
+	"Mileage": "73,900"
+  }
+ ]

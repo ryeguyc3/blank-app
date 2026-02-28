@@ -1,0 +1,30 @@
+Vehicles sold before 15 February 2026
+(8, 'GMC Sierra 3500 HD Denali Truck', '??????', '2018')
+Vehicles sold 16 February 2026 president Day
+(61, 'Kia Optima LX Sedan', '462680', '2015')
+(49, 'BMW 4 Series 428i M', 'A25031', '2016')
+Vehicles sold 17 February 2026 - inventory 47 Vehicles Found
+(50, 'Dodge Ram 1500 Truck', '194025', '2008')
+(114, 'Lexus CT 200h Hatchback', '193592', '2014')
+Vehicles sold 18 February 2026 - inventory 46 Vehicles Found
+(38, 'Nissan Rogue SV Wagon', '772357', '2023')
+Vehicles sold 19 February 2026 - inventory 47 Vehicles Found
+(29, 'Ford Bronco Sport Big Bend', 'D64895', '2022')
+(22, 'GMC Sierra 1500 Work Truck', '196156', '2013')
+Vehicles sold 20 February 2026 - inventory 48 Vehicles Found
+(74, 'Dodge Charger SXT', '116289', '2020')
+Vehicles sold 21 February 2026 - inventory 44 Vehicles Found
+(127, 'GMC Sierra 1500 SLE 4x4', '153869', '2020')
+(20, 'Volvo C30 T5 R-Design Premier Plus Hatchback', '310118', '2013')
+(56, 'Land Rover HSE SUV', '272968', '2016')
+(32, 'Honda CR-V LX SUV', '711315', '2013')
+Vehicles sold 23 February 2026 - inventory 43 Vehicles Found
+(81, 'Maserati Gran Turismo Roadster', '139414', '2015')
+Vehicles sold 24 February 2026 - inventory 41 Vehicles Found
+(77, 'Jeep Cherokee Latitude Plus', '534279', '2018')
+(108, 'Volvo XC90 T6 Inscription 7-Passenge SUV', '568929', '2020')
+(84, 'Mazda MX-5 Miata RF Grand Touring Convertible', '455587', '2021', '10,149')
+Vehicles sold 25 February 2026 - inventory 43 Vehicles Found
+(9, 'RAM 3500 Tradesman Truck', '412652', '2018')
+(10, 'Toyota Prius Two Hatchback', '003476', '2016', '10,149')
+Vehicles sold 26 February 2026 - inventory ? Vehicles Found
